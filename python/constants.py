@@ -40,7 +40,7 @@ eng_consonants = [
     "ga",
     "gha",
     "cha",
-    "chh",
+    "chha",
     "ja",
     "jha",
     "ta", # "ṭa",
@@ -149,7 +149,7 @@ eng_vowels = [
     "au",
     "aa", # "ā",
     "i",
-    "ee", # "ī",
+    "i", # "ī",
     "u",
     "u", # "ū",
     "e",
@@ -161,6 +161,7 @@ eng_vowels = [
 ]
 
 guj_diacritics = [
+    "ા",
     "િ",
     "ી",
     "ુ",
@@ -178,8 +179,9 @@ guj_diacritics = [
 ]
 
 eng_diacritics = [
+    "a",
     "i",
-    "ee", # "ī",
+    "i", # "ī",
     "u",
     "oo", # "ū",
     "e",
