@@ -1,5 +1,7 @@
 import re
 
+from .constants import *
+
 def replaceArray(a, b, text):
     if len(a) != len(b):
         return ""
